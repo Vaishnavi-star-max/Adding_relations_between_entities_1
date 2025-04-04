@@ -11,7 +11,7 @@ Use this exact destination data in your parent component:
 ```javascript
 const destinations = [
   {
-    id: 1,
+    id: 1, 
     name: "Bali",
     location: "Indonesia",
     image: "https://images.unsplash.com/photo-1537996194471-e657df975ab4",
